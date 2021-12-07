@@ -14,7 +14,7 @@
 
 .hero-section {
     height: 100vh;
-    background-image: url(/assets/home/image-homepage-hero.jpg);
+    background-image: url(../../assets/home/image-homepage-hero.jpg);
     background-size: cover;
     background-position: center;
 }

@@ -56,4 +56,4 @@
 
 <ul>A página foi reproduzida de acordo com o exemplo do arquivo <a href="https://www.figma.com/file/WeUv4Col4p4Ew4LlF4szwE/Desafio-front-academy-1?node-id=0%3A1">Figma</a>.</ul>
 
-###### tags: `front-end` `módulo 1` `HTML` `CSS` `desafio`
+###### tags: `front-end` `HTML` `CSS`

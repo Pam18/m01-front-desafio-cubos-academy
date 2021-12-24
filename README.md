@@ -39,16 +39,16 @@
 </br>
 
 ### :warning: Para executar o projeto...
-            # Clone o repositório para a sua máquina local.
-             $ git clone git@github.com:Pam18/m01-front-desafio-cubos-academy.git
+            // Clone o repositório para a sua máquina local.
+            $ git clone git@github.com:Pam18/m01-front-desafio-cubos-academy.git
              
-            # No painel esquerdo do seu VSCODE, entre no repositório clonado e acesse a pasta "pages".
+            // No painel esquerdo do seu VSCODE, entre no repositório clonado e acesse a pasta "pages".
             
-            # Na pasta "pages", abra a subpasta "home".
+            // Na pasta "pages", abra a subpasta "home".
             
-            # Dentro da subpasta "home", clique com o botão direito no arquivo "index.html" e selecione "Open with Live Server".
+            // Dentro da subpasta "home", clique com o botão direito no arquivo "index.html" e selecione "Open with Live Server".
             
-            # A aplicação será aberta no seu navegador.
+            // A aplicação será aberta no seu navegador.
   
 </br>
   
